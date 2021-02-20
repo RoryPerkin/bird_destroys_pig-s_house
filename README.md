@@ -1,2 +1,2 @@
-# bird_destroys_pig-s_house
-a bird destroys a pig's house  because they are enemies (heavily based of angry birds)
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
